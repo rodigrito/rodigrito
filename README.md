@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello World!
 
-<!--
-**rodigrito/rodigrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻I'm currently learning how to code in Phyton and other simple programming languages.
 
-Here are some ideas to get you started:
+🌎 16 year old, born in Brazil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👀Looking for opportunities where i can improve my personal abilities, such as work exeperiences, 
+
+
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 8px;">
+
+
+* [Certificações - Credly](https://www.credly.com/badges/cee58804-3308-4b51-9ccc-1ffb6b9b79a2/public_url) 
