@@ -1,4 +1,4 @@
-![dog coding](https://github.com/user-attachments/assets/127d9ef6-1ff5-42e3-9221-5d53f535deec)## Hello World!🌎
+Hello World!🌎
 
 ![dog coding](https://github.com/user-attachments/assets/3824e509-7892-4b89-b6f2-94dc11206182)
 
