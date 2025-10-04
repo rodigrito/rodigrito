@@ -5,9 +5,7 @@
 
 💻 I'm currently learning how to code in Phyton and other programming languages.
 
-🐱 16 year old, born in Brazil!
-
-👀I'm looking for opportunities where I can develop my personal and professional skills, such as teamwork, job market experience, and much more.
+👀Looking for opportunities where I can develop my personal and professional skills, such as teamwork, job market experience, and much more.
 
 Languages:
 
