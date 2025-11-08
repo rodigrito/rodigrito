@@ -1,8 +1,5 @@
 ## **Hello World!🌎**
 
-![dog coding](https://github.com/user-attachments/assets/3824e509-7892-4b89-b6f2-94dc11206182)
-
-
 💻 I'm currently learning how to code in Phyton and other programming languages.
 
 👀Looking for opportunities where I can develop my personal and professional skills, such as teamwork, job market experience, and much more.
