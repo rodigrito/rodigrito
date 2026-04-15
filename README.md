@@ -1,6 +1,6 @@
 ## **Hello, World!🌎**
 
-💻 I'm currently learning how to code in Python and some other programming languages.
+💻 I'm currently learning how to code in Python and some other programming languages. I also have knowledge of the basic cloud concepts, like Azure, AWS and so forth.
 
 👀 Looking for opportunities where I can develop my personal and professional skills, such as teamwork, job market experience, and much, much more.
 
