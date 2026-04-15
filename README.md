@@ -1,6 +1,6 @@
 ## **Hello World!🌎**
 
-💻 I'm currently learning how to code in Phyton and other programming languages.
+💻 I'm currently learning how to code in Python and other programming languages.
 
 👀Looking for opportunities where I can develop my personal and professional skills, such as teamwork, job market experience, and much more.
 
