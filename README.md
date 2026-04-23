@@ -4,7 +4,7 @@
 
 👀 Looking for opportunities where I can develop my personal and professional skills, such as teamwork, job market experience, and much, much more.<hr>
 
-Languages:
+Technologies:
 
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 8px;">
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 8px;"/>
